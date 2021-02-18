@@ -1,0 +1,4 @@
+global.XA = {
+  component: {},
+  register() {  }
+};
